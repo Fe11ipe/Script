@@ -4,7 +4,6 @@ Scritp de caputra:
 
 `Antigo`
 
-
 PRIMEIRO_EMPLACAMENTO
 ALTERAR_CARACTERISTICAS
 AQUISICAO_VEICULO
@@ -16,7 +15,8 @@ CRLV_E
 MERCOSUL
 ATUALIZACAO_ENDERECO
 
-[script](https://github.com/Fe11ipe/Script/blob/main/script.sql)
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/geral.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/geral.sql)
 
 
 
