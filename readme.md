@@ -35,4 +35,71 @@ Arquivos :
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/GRAVAME.sql)
 
 
+* `MULTA`
+
+Coleta: MULTA
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/MULTA.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/MULTA.sql)
+
+
+* `2_VIA`
+
+Coleta: 2_VIA
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/2_VIA.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/2_VIA.sql)
+
+
+* `TEI`
+
+Coleta:  TEI CNPJ,  TEI CPF
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/TEI.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/TEI.sql)
+
+
+* `CNH_DEFINITIVA`
+
+Coleta: CNH DEFINITIVA
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/CNH_DEFINITIVA.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/CNH_DEFINITIVA.sql)
+
+* `NOTIFICACAO`
+
+Coleta: NOTIFICACAO
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/NOTIFICACAO.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/NOTIFICACAO.sql)
+
+* `PRIMEIRA_HABILITACAO`
+
+Coleta: PRIMEIRA HABILITACAO
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/PRIMEIRA_HABILITACAO.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/PRIMEIRA_HABILITACAO.sql)
+
+* `ATUALIZAR_CONDUTOR`
+
+Coleta: ATUALIZAR_CONDUTOR, PID
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/ATUALIZAR_CONDUTOR.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/ATUALIZAR_CONDUTOR.sql)
+
+* `MULTA`
+
+Coleta: MULTA
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/MULTA.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/MULTA.sql)
+
 
