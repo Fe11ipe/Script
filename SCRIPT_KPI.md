@@ -156,13 +156,3 @@ Coleta: RENOVACAO
 Arquivos :
 [Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/BOLETO_CATEGORIA.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/BOLETO_CATEGORIA.sql)
-
-
-* `RENOVACAO`
-
-Coleta: RENOVACAO
-
-Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/RENOVACAO.sql)
-[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/RENOVACAO.sql)
-
