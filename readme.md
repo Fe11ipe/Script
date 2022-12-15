@@ -1,5 +1,3 @@
-Indice de SQL
-
 ## Scritp de caputra
 
 * `Geral`
