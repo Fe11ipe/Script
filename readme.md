@@ -1,8 +1,8 @@
 Indice de SQL
 
-Scritp de caputra:
+## Scritp de caputra
 
-## `Geral`
+* `Geral`
 
 PRIMEIRO_EMPLACAMENTO
 ALTERAR_CARACTERISTICAS
