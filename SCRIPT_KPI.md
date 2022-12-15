@@ -94,12 +94,75 @@ Arquivos :
 [Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/ATUALIZAR_CONDUTOR.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/ATUALIZAR_CONDUTOR.sql)
 
-* `MULTA`
+* `RENOVACAO`
 
-Coleta: MULTA
+Coleta: RENOVACAO
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/MULTA.sql)
-[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/MULTA.sql)
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/RENOVACAO.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/RENOVACAO.sql)
 
+
+* `PIX`
+
+Coleta: CONVERSAO_PLACA_MERCOSUL,
+SERV_CREDENC,
+TRANSFERENCIA_VEICULO,
+HABILITACAOA,
+HABILITACAO_CNH_RENOVACA
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/PIX.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/PIX.sql)
+
+
+* `BASE`
+
+Coleta: 
+901,
+902,
+903,
+575,
+555,
+552.
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/BASE.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/BASE.sql)
+
+
+* `2VIA_ABERTO`
+
+Coleta: RENOVACAO
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/2VIA_ABERTO.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/2VIA_ABERTO.sql)
+
+
+* `TEI_ERRO`
+
+Coleta: RENOVACAO
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/TEI_ERRO.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/TEI_ERRO.sql)
+
+
+* `BOLETO_CATEGORIA`
+
+Coleta: RENOVACAO
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/BOLETO_CATEGORIA.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/BOLETO_CATEGORIA.sql)
+
+
+* `RENOVACAO`
+
+Coleta: RENOVACAO
+
+Arquivos :
+[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/RENOVACAO.sql)
+[KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/RENOVACAO.sql)
 
