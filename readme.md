@@ -2,7 +2,7 @@ Indice de SQL
 
 Scritp de caputra:
 
-`Antigo`
+*`Geral`
 
 PRIMEIRO_EMPLACAMENTO
 ALTERAR_CARACTERISTICAS
@@ -15,6 +15,7 @@ CRLV_E
 MERCOSUL
 ATUALIZACAO_ENDERECO
 
+Arquivos :
 [Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/geral.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/geral.sql)
 
