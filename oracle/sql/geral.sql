@@ -1,8 +1,15 @@
-CRUSELECT a.ve_log_transacao AS codigo
+CRU
+
+SELECT a.ve_log_transacao AS codigo
 FROM   veiculo.ve_log_transacoes a
 WHERE  a.ve_log_cod_retorno = '000'
 AND    a.ve_log_transacao     IN (201,202,203,204,233,263,227,237,250,253,230)
-AND    a.ve_log_data > sysdate - interval '10' minute relatorioSELECT   data,
+AND    a.ve_log_data > sysdate - interval '10' minute relatorio
+
+
+RELATORIO
+
+SELECT   data,
          hora,
          codigo,
          Count (*) total
