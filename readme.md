@@ -1,3 +1,3 @@
 Inicio projeto
 
-[teste link] (https://github.com/Fe11ipe/Script/blob/main/script.sql)
+antes parentese [teste link] (https://github.com/Fe11ipe/Script/blob/main/script.sql).
