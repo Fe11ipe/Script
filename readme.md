@@ -3,7 +3,7 @@ Indice de SQL
 Scritp de caputra:
 
 `Antigo`
-  
+
 
 PRIMEIRO_EMPLACAMENTO
 ALTERAR_CARACTERISTICAS
@@ -16,7 +16,7 @@ CRLV_E
 MERCOSUL
 ATUALIZACAO_ENDERECO
 
-[script geral](https://github.com/Fe11ipe/Script/blob/main/script.sql).
+[script](https://github.com/Fe11ipe/Script/blob/main/script.sql)
 
 
 
