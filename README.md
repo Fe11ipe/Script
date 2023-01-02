@@ -14,7 +14,7 @@ MERCOSUL,
 ATUALIZACAO_ENDERECO,
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/geral.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/geral.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/geral.sql)
 
 
@@ -23,7 +23,7 @@ Arquivos :
 Coleta: Autorizacao Idoso
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/Autorizacao_idoso.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/Autorizacao_idoso.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/Autorizacao_idoso.sql)
 
 * `GRAVAME`
@@ -31,7 +31,7 @@ Arquivos :
 Coleta: Gravame
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/GRAVAME.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/GRAVAME.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/GRAVAME.sql)
 
 
@@ -40,7 +40,7 @@ Arquivos :
 Coleta: MULTA
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/MULTA.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/MULTA.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/MULTA.sql)
 
 
@@ -49,7 +49,7 @@ Arquivos :
 Coleta: 2_VIA
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/2_VIA.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/2_VIA.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/2_VIA.sql)
 
 
@@ -58,7 +58,7 @@ Arquivos :
 Coleta:  TEI CNPJ,  TEI CPF
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/TEI.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/TEI.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/TEI.sql)
 
 
@@ -67,7 +67,7 @@ Arquivos :
 Coleta: CNH DEFINITIVA
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/CNH_DEFINITIVA.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/CNH_DEFINITIVA.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/CNH_DEFINITIVA.sql)
 
 * `NOTIFICACAO`
@@ -75,7 +75,7 @@ Arquivos :
 Coleta: NOTIFICACAO
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/NOTIFICACAO.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/NOTIFICACAO.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/NOTIFICACAO.sql)
 
 * `PRIMEIRA_HABILITACAO`
@@ -83,7 +83,7 @@ Arquivos :
 Coleta: PRIMEIRA HABILITACAO
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/PRIMEIRA_HABILITACAO.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/PRIMEIRA_HABILITACAO.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/PRIMEIRA_HABILITACAO.sql)
 
 * `ATUALIZAR_CONDUTOR`
@@ -91,7 +91,7 @@ Arquivos :
 Coleta: ATUALIZAR_CONDUTOR, PID
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/ATUALIZAR_CONDUTOR.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/ATUALIZAR_CONDUTOR.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/ATUALIZAR_CONDUTOR.sql)
 
 * `RENOVACAO`
@@ -99,7 +99,7 @@ Arquivos :
 Coleta: RENOVACAO
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/RENOVACAO.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/RENOVACAO.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/RENOVACAO.sql)
 
 
@@ -112,7 +112,7 @@ HABILITACAOA,
 HABILITACAO_CNH_RENOVACA
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/PIX.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/PIX.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/PIX.sql)
 
 
@@ -127,7 +127,7 @@ Coleta:
 552.
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/BASE.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/BASE.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/BASE.sql)
 
 
@@ -136,7 +136,7 @@ Arquivos :
 Coleta: RENOVACAO
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/2VIA_ABERTO.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/2VIA_ABERTO.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/2VIA_ABERTO.sql)
 
 
@@ -145,7 +145,7 @@ Arquivos :
 Coleta: RENOVACAO
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/TEI_ERRO.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/TEI_ERRO.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/TEI_ERRO.sql)
 
 
@@ -154,5 +154,5 @@ Arquivos :
 Coleta: RENOVACAO
 
 Arquivos :
-[Geral](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/BOLETO_CATEGORIA.sql)
+[SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/BOLETO_CATEGORIA.sql)
 [KPI](https://github.com/Fe11ipe/Script/blob/main/oracle/sql/BOLETO_CATEGORIA.sql)
