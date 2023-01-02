@@ -133,7 +133,7 @@ Arquivos :
 
 * `2VIA_ABERTO`
 
-Coleta: RENOVACAO
+Coleta: 2Via Aberta
 
 Arquivos :
 [SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/2VIA_ABERTO.sql)
@@ -142,7 +142,7 @@ Arquivos :
 
 * `TEI_ERRO`
 
-Coleta: RENOVACAO
+Coleta: TEI ERRO
 
 Arquivos :
 [SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/TEI_ERRO.sql)
@@ -151,7 +151,7 @@ Arquivos :
 
 * `BOLETO_CATEGORIA`
 
-Coleta: RENOVACAO
+Coleta: Boleto Serviço
 
 Arquivos :
 [SQL](https://github.com/Fe11ipe/Script/blob/main/oracle/KPI/BOLETO_CATEGORIA.sql)
